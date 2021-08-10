@@ -39,7 +39,7 @@ docker run -v $PWD:/$PWD --workdir=$PWD --privileged -ti --network host rttr/doc
 
 # Historical Compilers
 - g++
-  - g++-4.8, g++-4.9, g++-5, g++-7, g++-8, g++-9, g++-10, g++
+  - g++-4.8, g++-4.9, g++-5, g++-7, g++-8, g++-9, g++-10
 - clang
   - clang-3.5, clang-3.6, clang-3.7, clang-3.8, clang-3.9, clang-4.0, clang-5.0, clang-6.0, clang-7, clang-8, clang-9, clang-10, clang-11
 
